@@ -1,0 +1,20 @@
+#+LATEX_CLASS: article 
+#+LATEX_HEADER: \usepackage{tikz}
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t author:nil date:nil
+
+* Arealsetningen
+Idag skal vi lære om arealsetningen
+
+Gitt en trekant $ABC$ der vi kjenner lengdene $q=AB$,$p=AC$ der vinkelen mellom disse er $\theta$, da har vi at arealet $A$ er gitt ved:
+\[
+A = \frac{1}{2}pq\sin{\theta}
+\]
+
+** Eskempel på oppgave
+1)
+
+2)
+
+* Sinus setningen
+Idag skal vi lære om sinussetningen.
+jada

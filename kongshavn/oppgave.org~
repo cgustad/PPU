@@ -1,0 +1,5 @@
+#+LATEX_CLASS: article 
+#+LATEX_HEADER: \usepackage{tikz,wrapfig} \usetikzlibrary{calligraphy,calc,patterns,angles,quotes,decorations.pathreplacing,intersections} \usetikzlibrary{decorations.pathreplacing,calligraphy}
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t author:nil date:nil
+
+* Oppagave 1

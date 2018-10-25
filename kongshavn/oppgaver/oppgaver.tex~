@@ -1,0 +1,45 @@
+\documentclass{exam}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[norsk]{babel}
+%\renewcommand{\headrulewidth}{0pt}
+%\fancyhead[L]{}
+%\fancyhead[R]{
+%\includegraphics[width=4cm]{./img/logo.jpg}}
+\begin{document}
+
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{}{}{}
+\firstpagefooter{}{}{}
+\runningheader{Eksamenskurs i matematikk for ungdomskolen 2018}{}{\includegraphics[width=0.2\textwidth]{./img/logo.jpg}}
+\runningfooter{}{ \thepage\ av \numpages}{}
+
+
+
+{  \centering
+
+	{\scshape\Huge Eksamenskurs i matematikk \par}
+	\vspace{1cm}
+	{\Large Ungdomskolen \today \par}
+	\vspace{1.5cm}
+        \begin{center}
+          \includegraphics{./img/forside.png}          
+        \end{center}
+
+}
+
+\newpage
+
+
+Hvorfor
+Hei, øæf Deette funka
+
+
+
+\end{document}

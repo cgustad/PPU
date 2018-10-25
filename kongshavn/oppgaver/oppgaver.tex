@@ -1,0 +1,92 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[norsk]{babel}
+\usepackage{tikz}
+\usepackage{tkz-euclide}
+\usepackage{float}
+%\renewcommand{\headrulewidth}{0pt}
+%\fancyhead[L]{}
+%\fancyhead[R]{
+%\includegraphics[width=4cm]{./img/logo.jpg}}
+\begin{document}
+
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{}{}{}
+\firstpagefooter{}{}{}
+\runningheader{Eksamenskurs i matematikk for ungdomskolen 2018}{}{\includegraphics[width=0.2\textwidth]{./img/logo.jpg}}
+\runningfooter{}{}{}
+
+
+
+{  \centering
+
+	{\scshape\Huge Eksamenskurs i matematikk \par}
+	\vspace{1cm}
+	{\Large Ungdomskolen \today \par}
+	\vspace{1.5cm}
+        \begin{center}
+          { \large
+          \begin{tabular}{c | c}
+            Tid & Hva \\ \hline
+            16:15-17:30 & Del 1 : Linære funksjoner\\ \hline
+            17:30-17:45 & Pause \\\hline
+            17:45-19:00 & Del 2 : Linære likninger\\\hline
+          \end{tabular}
+          }
+          \vspace{1.5cm}
+          \begin{figure}[h!]
+            \centering
+            \includegraphics[scale = 0.7]{./img/forside.png}                      
+          \end{figure}
+
+        \end{center}
+
+}
+
+\newpage
+
+\qformat{\underline{Spørsmål \thequestion} \hfill}
+\section*{Linære likninger}
+% Intro
+\[
+y = a\cdot x + b
+\]
+Vi kaller da:
+\begin{itemize}
+\item $a$ stigningstall
+\item $b$ kontantledd
+\item $x$ variabel
+\end{itemize}
+Vi oppgir punkter i $(x,y)$ koordinater.
+
+% Oppgave 1
+\begin{questions}
+\question Sett punktene $(-1,4)-(-2,-5)-(3,1)-(4,9)-(2,-3)$ inn i koordinatsystemet.
+\end{questions}
+\begin{center}
+\begin{tikzpicture}[scale = 0.7,every node/.style={scale=0.6}]
+\tkzInit[xmin=-10,xmax=10,ymin=-10,ymax=10]
+\tkzGrid[color=gray]
+\tkzAxeXY[very thick]
+\tkzGrid
+\end{tikzpicture}  
+\end{center}
+
+% Oppgave 2
+
+
+
+
+\end{document}
+
+
+
+
+

@@ -1,0 +1,35 @@
+% Created 2018-10-25 to. 13:00
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\usepackage{tikz,wrapfig} \usetikzlibrary{calligraphy,calc,patterns,angles,quotes,decorations.pathreplacing,intersections} \usetikzlibrary{decorations.pathreplacing,calligraphy}
+\date{}
+\title{oppgave}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 24.5.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+
+\section{Oppagave 1}
+\label{sec-1}
+
+sdfs e
+% Emacs 24.5.1 (Org mode 8.2.10)
+\end{document}

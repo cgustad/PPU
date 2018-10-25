@@ -1,0 +1,91 @@
+#+LATEX_CLASS: article 
+#+LATEX_HEADER: \usepackage{tikz,wrapfig} \usetikzlibrary{calligraphy,calc,patterns,angles,quotes,decorations.pathreplacing,intersections} \usetikzlibrary{decorations.pathreplacing,calligraphy}
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t author:nil date:nil
+
+* Arealsetningen
+Idag skal vi lære om arealsetningen
+
+Gitt en trekant $ABC$ der vi kjenner lengdene $q=AB$, $p=AC$ der vinkelen mellom disse er $\theta$, da har vi at arealet $A$ er gitt ved:
+\[
+A = \frac{1}{2}pq\sin{\theta}
+\]
+\begin{tikzpicture}
+  \draw
+    (0,0) coordinate (A) 
+    -- (2,3) coordinate (B) node[midway,above,align = center] {$p$}
+    -- (5,0) coordinate (C)
+    -- cycle  node[midway, above] {$q$}
+    pic["$\theta$", draw=red, <->, angle eccentricity=1.4, angle radius=0.8cm]
+    {angle=C--A--B};
+\end{tikzpicture}
+
+
+** Eksempel 1:
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}
+  \draw
+    (0,0) coordinate (A) node[below] {A}
+    -- (2,3) coordinate (C) node[below] {C}
+    -- (5,3) coordinate (B) node[below] {B}
+    -- cycle
+    pic["$\theta = 132^{\circ}$", draw=red, <->, angle eccentricity=1.4, angle radius=0.8cm]
+    {angle=A--C--B};
+    \draw[decorate,decoration={brace,amplitude=10pt},yshift=0pt,thick] (A) -- (C) node [midway,yshift=12pt, xshift =-12pt]{$36m$};
+    \draw[decorate,decoration={brace,amplitude=10pt},yshift=0pt,thick] (C) -- (B) node [midway,yshift=15pt, xshift =0pt]{$48m$};
+\end{tikzpicture}
+\end{figure}
+Vi vil regne ut arealet av tomta som er gitt i figuren ved siden av.
+Vi kjenner vinkelen mellom de to sidene samt lengen. Da bruker vi sinussetningen til å vise at :
+\[
+A = \frac{1}{2} AC \cdot BC \cdot \sin{\theta} = \frac{1}{2} 36 \cdot 48 \cdot \sin{132} \approx 640.
+\]
+** Bevis
+Del beviset inn i 2 deler
+*** $\theta < 90^{\circ}$
+- Trekk en linje $h$ ned langs midten.
+- Utrykk $h$ ved hjelp av $\sin{\theta}$ og $q$.
+- Plugg inn i formel for areal.
+*** $\theta > 90^{\circ}$
+- Trekk en linje ned fra toppen og dann en rettviklet trekant. 
+- Finn $h$ ved hjelp av supplementvinkelen til $\theta$.
+- plugg dette inn i formelen for areal.
+** Eksemepel 2
+Finn alle trekanter $ABC$ med areal lik $3.5cm$ der $AB = 3.2cm$ og $AC = 2.5cm$. 
+Vi bruker formelen og finner at $\theta = 61^{\circ}$ og finner supplementvinkelen.
+
+* Cosinus setningen
+Gitt en trekant som ikke er nødvendigivis rettvinklet. Da har vi at:
+\[
+a^2 = b^2 + c^2 -2bc \cos{\theta}
+\]
+
+** Eksempel 1
+\begin{figure}[h!]
+\begin{tikzpicture}
+  \draw
+    (0,0) coordinate (A) 
+    -- (2,3) coordinate (B) node[midway,left,align = center] {$36cm$}
+    -- (5,3) coordinate (C) node [midway, above] {$48cm$}
+    -- cycle
+    pic["$\theta=132^{\circ}$", draw=red, <->, angle eccentricity=1.4, angle radius=0.8cm]
+    {angle=A--B--C};
+\end{tikzpicture}
+\end{figure}
+I denne figuren kjenner vi to sider og vinkelen mellom sidene. 
+Vi kan da bruke cosinussetningen til å finne ut av hva den siste siden må være. 
+\begin{align*}
+x^2 & = 36^2 + 48^2 -2\cdot 36 \cdot 48 \cdot \cos{132^{\circ}} \approx 5912,5\\
+x & = \sqrt{5912,5} \approx 77
+\end{align*}
+
+** Bevis
+Dette er kun bevist for $\theta <90^{circ}$ For trekanten $ABC$ der $\theta$ tilhører $A$\\ 
+- Trekk først en linje ned fra $C$ ned til $A$ og la $x$ være avastenden fra der denne linja treffer $AB$.
+- Observer så at 
+\[
+b^2 = x^2 + h^2 \hspace{5mm} \cos{\theta} = \frac{x}{b} \hspace{5mm} x = b\cos{\theta}
+\]
+Bruk pythagorias til å vise at $a^2 = h^2 + (c-x)^2$. 
+Da får vi at $a^2 = h^2 +c^2 -2cx + x^2 = b^2 +c^2 -2cb\cos{\theta}$ \newline
+For å komme frem til dette er stattet vi $h^2 +x^2$ med $b^2$ og brukte at $x=b\cos{\theta}$
