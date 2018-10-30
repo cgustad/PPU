@@ -1,4 +1,4 @@
-\documentclass[12pt]{exam}
+\documentclass[12pt,answer]{exam}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{wrapfig}
@@ -12,15 +12,26 @@
 \usepackage{float}
 \usepackage{wrapfig}
 \usepackage{pgfplots}
+
 \pgfplotsset{compat=1.11}
 
 
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{}{}{}
+\runningheader{}
+{}
+{}
+\firstpagefooter{}{}{}
+\runningfooter{}{}{}
+
 \begin{document}
+ \printanswers
 \qformat{\underline{Spørsmål \thequestion} \hfill}
+\renewcommand{\solutiontitle}{\noindent\textbf{Svar:}\par\noindent}
+\unframedsolutions
 
-
-\begin{questions}
-  
+\begin{questions} 
 \question Regn ut kryssproduktet $\vec{p} \times \vec{q}$\\
 \begin{parts}
 \begin{minipage}{0.5\textwidth}
@@ -29,35 +40,55 @@
 \vec{p} &= [1,1,1]\\
 \vec{q} &= [1,2,3]
 \end{align*}
+\begin{solution}
+$[1-2,1]$
+\end{solution}
 \part 
 \begin{align*}
 \vec{p} &= [1,2,1]\\
 \vec{q} &= [1,5,3]
 \end{align*}
+\begin{solution}
+$[1,-2,3]$
+\end{solution}
 \end{minipage}%
-\begin{minipage}{0.45\textwidth}
+\begin{minipage}{0.5\textwidth}
 \part 
 \begin{align*}
 \vec{p} &= [1,0,2] \\
 \vec{q} &= [-2,1,3]
 \end{align*}
+\begin{solution}
+$[-2,-7,1]$
+\end{solution}
 \part 
 \begin{align*}
 \vec{p} &= [2,1,0] \\
 \vec{q} &= [3,1,1]
 \end{align*}
+\begin{solution}
+$[1,-2,-1]$
+\end{solution}
 \end{minipage}%
 \end{parts}
 
 \question Du har to vektorer $\vec{p}$ og $\vec{q}$ med en vinkel immellom dem på $\frac{\pi}{6}$. 
 Vi vet at $|\vec{p}| = 2$ og at $|\vec{q}| = 3$. Hva er da $|\vec{p} \times \vec{q}|$?
-
+\begin{solution}
+3
+\end{solution}
 
 \question Du har to vektorer $\vec{p}$ og $\vec{q}$ med en vinkel immellom dem på $\frac{\pi}{4}$. 
 Vi vet at $|\vec{p}| = 3$ og at $|\vec{q}| = 7$. Hva er da $|\vec{p} \times \vec{q}|$?
+\begin{solution}
+$\frac{21\sqrt{2}}{2}$
+\end{solution}
 
 \begin{minipage}{0.5\textwidth}
 \question Bruk kryssproduktet til å finne arealet av trekanten.
+\begin{solution}
+Arealet er 5
+\end{solution}
 \end{minipage}%
 \begin{minipage}{0.5\textwidth}
 \begin{tikzpicture}[scale = 1.0,every node/.style={scale=1.0}]
@@ -75,11 +106,20 @@ Vi vet at $|\vec{p}| = 3$ og at $|\vec{q}| = 7$. Hva er da $|\vec{p} \times \vec
 \question
 \begin{parts}
 \part Finn $t$ slik at $[2,1,t] \times [4,3,2] \perp [3,2,1]$
-\part Finn $t$ slik at $[2,1,t] \times [3,4,5 ]\; ||  \;[1,-1,1]$
+\begin{solution}
+$t = 0$
+\end{solution}
+\part Finn $t$ slik at $[2,1,t] \times [3,4,5 ]\; ||  \;[0,-1,1]$
+\begin{solution}
+$t = 1$
+\end{solution}
 \part Finn $t$ slik at $|\vec{n}| = \sqrt{3}$ når
 \[
-\vec{n} = [2,1,t] \times [2,3,1]
+\vec{n} = [1,1,t] \times [2,3,1]
 \]
+\begin{solution}
+$t= \frac{10}{13}, \hspace{5mm} t = 0.$
+\end{solution}
 \end{parts}
 
 \question Forklar hvorfor for to vektorer $\vec{p},\vec{q}$ så har vi alltid at:
