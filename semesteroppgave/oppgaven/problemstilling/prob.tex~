@@ -1,4 +1,4 @@
-% Created 2018-11-01 to. 20:15
+% Created 2018-11-01 to. 20:49
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -25,11 +25,22 @@
 \begin{document}
 
 
-
-\section*{Timeplaner}
+\section*{Problemstillling semesteroppgaven}
 \label{sec-1}
+Min problemstilling går ut ifra en dobbelttime gjennomført på kongshavn vidregående skole under praksis.
+Timen er ment for en helklasse i R2. Jeg har har valgt å fokusere på hvordan redskaper som 
+digitale verktøy  og rike oppgavene kan påvirke undervisningen og hjelpe elevene få en aha-opplevelse.
+Tidligere har elevene gått igjennom vektorer i rommet for første gang, der ble det benyttet geogebra
+for å definere tre-dimensjonale objekter. 
+Vi ønsker å kontekstualisere det vi observertie i forhold til teorien gitt i \cite{digital}.
+
+
+
+\newpage
+\section*{Timeplaner}
+\label{sec-2}
 \subsection*{Første time}
-\label{sec-1-1}
+\label{sec-2-1}
 \begin{center}
 \begin{tabular}{l|l|l|l}
 Tid & Hva skjer? & Hvordan skal & Hvorfor skal\\
@@ -79,9 +90,9 @@ min & løsning på noen av de & oppgaver som elevene & konsolidering og gir i\\
  &  & følge gjennomgangen. & \\
 \end{tabular}
 \end{center}
-
+\newpage
 \subsection*{Andre time}
-\label{sec-1-2}
+\label{sec-2-2}
 \begin{center}
 \begin{tabular}{l|l|l|l}
 Tid & Hva skjer? & Hvordan skal & Hvorfor skal\\
@@ -129,4 +140,21 @@ min & tavlen. & oppgaver som elevene & konsolidering og gir i\\
 \end{tabular}
 \end{center}
 % Emacs 24.5.1 (Org mode 8.2.10)
+\newpage
+\begin{thebibliography}{2}
+\bibitem[HTZ]{digital}
+Heid, M. K., Thomas, M. O. J.,  Zbiek, R. M. 
+\newblock How Might Computer Algebra Systems Change the Role of Algebra in the School Curriculum?
+\newblock { \em Third International Handbook of Mathematics Education} 2013
+
+\bibitem[Alg]{alg}
+Har, Y. B. (2009). 
+\newblock Teaching of algebra. I L.P. Yee \& L.N. Hoe (red.).  
+\newblock {Teaching secondary school mathematics. A resourse book},  25 – 50. Singaporte: McGraw Hill.
+
+\end{thebibliography} 
+
+
+
+
 \end{document}

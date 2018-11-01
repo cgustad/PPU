@@ -1,4 +1,4 @@
-% Created 2018-11-01 to. 20:15
+% Created 2018-11-01 to. 22:31
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -25,11 +25,34 @@
 \begin{document}
 
 
-
-\section*{Timeplaner}
+\section*{Problemstillling semesteroppgaven}
 \label{sec-1}
+Min problemstilling går ut ifra en dobbelttime gjennomført på kongshavn vidregående skole under praksis.
+Timen er ment for en helklasse i R2. Jeg har har valgt å fokusere på hvilke redskaper som 
+digitale verktøy og oppgavene utdelt kan påvirke undervisningen og hjelpe elevene få en aha-opplevelse.   
+
+
+\newpage
+\section*{Timeplaner}
+\label{sec-2}
+\begin{center}
+\begin{tabular}{l|l|l|r}
+Dato & Klasse & Varighet & Tidspunkt\\
+1.Nov & R2 & To timer & 13:00-14:30\\
+\hline
+Fag: & Kompetansemål:\\
+Matematikk & \\
+ & \\
+ & \\
+\hline
+ &  &  & \\
+ &  &  & \\
+ &  &  & \\
+ &  &  & \\
+\end{tabular}
+\end{center}
 \subsection*{Første time}
-\label{sec-1-1}
+\label{sec-2-1}
 \begin{center}
 \begin{tabular}{l|l|l|l}
 Tid & Hva skjer? & Hvordan skal & Hvorfor skal\\
@@ -79,9 +102,9 @@ min & løsning på noen av de & oppgaver som elevene & konsolidering og gir i\\
  &  & følge gjennomgangen. & \\
 \end{tabular}
 \end{center}
-
+\newpage
 \subsection*{Andre time}
-\label{sec-1-2}
+\label{sec-2-2}
 \begin{center}
 \begin{tabular}{l|l|l|l}
 Tid & Hva skjer? & Hvordan skal & Hvorfor skal\\
@@ -128,5 +151,9 @@ min & tavlen. & oppgaver som elevene & konsolidering og gir i\\
  &  &  & \\
 \end{tabular}
 \end{center}
+\section*{}
+\label{sec-3}
+\section*{}
+\label{sec-4}
 % Emacs 24.5.1 (Org mode 8.2.10)
 \end{document}

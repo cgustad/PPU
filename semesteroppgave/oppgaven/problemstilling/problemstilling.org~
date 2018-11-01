@@ -9,6 +9,7 @@ Min problemstilling går ut ifra en dobbelttime gjennomført på kongshavn vidre
 Timen er ment for en helklasse i R2. Jeg har har valgt å fokusere på hvilke redskaper som 
 digitale verktøy og oppgavene utdelt kan påvirke undervisningen og hjelpe elevene få en aha-opplevelse.   
 
+
 #+BEGIN_LaTeX
   \newpage
 #+END_LaTeX
@@ -64,47 +65,47 @@ digitale verktøy og oppgavene utdelt kan påvirke undervisningen og hjelpe elev
   \newpage
 #+END_LaTeX
 ** Andre time
-| /     | <                      | <                       | <                         |
-| Tid   | Hva skjer?             | Hvordan skal            | Hvorfor skal              |
-|       |                        | dette skje?             | det skje?                 |
-|-------+------------------------+-------------------------+---------------------------|
-| 0-2   | Oppstart av timen.     | Få ro i klassen etter   | For å få oppmerksomheten  |
-| min   |                        | friminutt. Læreren vil  | og roen til elevene.      |
-|       |                        | få overblikk over hvem  |                           |
-|       |                        | som er tilstedet.       |                           |
-|-------+------------------------+-------------------------+---------------------------|
-| 2-15  | Inroduksjon av         | Etter elevene har       | Dette gjøre for å         |
-| min   | kryssprodukt.          | fått roen, kan          | formidle stoffet til      |
-|       |                        | læreren gå igjennom     | elevene. Spesielt viktig  |
-|       |                        | prinsippene til         | blir da den så kalte      |
-|       |                        | kryssproduktet.         | høyrehåndsregelen.        |
-|       |                        | Slik som hvordan        | Denne blir sentral i      |
-|       |                        | kryss produktet         | den geometriske           |
-|       |                        | gir en vektor ffra      | tolkningen av             |
-|       |                        | to vektorer,            | kryssproduktet.           |
-|       |                        | i motsetning til        |                           |
-|       |                        | skalarproduktet som     |                           |
-|       |                        | gir ett tall.           |                           |
-|       |                        | Deretter vil det bli    |                           |
-|       |                        | gjennomgått hvilke      |                           |
-|       |                        | egenskaper dette        |                           |
-|       |                        | produktet har, og den   |                           |
-|       |                        | geometriske tolkningen. |                           |
-|-------+------------------------+-------------------------+---------------------------|
-| 15-35 | Arbeid med oppgaver.   | Eleven jobber med       | Oppgavene vil fokusere    |
-| min   |                        | oppgavene. Hvis noen    | på regneregler og         |
-|       |                        | ikke forstår oppgaven   | determinant metode. I     |
-|       |                        | eller trenger hjelp,    | tilegg til formler for    |
-|       |                        | rekker de opp hånda.    | areal av trekanter.       |
-|-------+------------------------+-------------------------+---------------------------|
-| 35-45 | Oppgaver løst på       | Læreren gjennomgår      | Dette gjøres for          |
-| min   | tavlen.                | oppgaver som elevene    | konsolidering og gir i    |
-|       |                        | har slitt med eller     | tillegg en mulighet for   |
-|       |                        | oppgavene som var me    | å oppklare noe elevene    |
-|       |                        | instruktive. Elevene    | ikke har forstått.        |
-|       |                        | vil fortsette å arbe    |                           |
-|       |                        | med tidligere oppgav    |                           |
-|       |                        | dersom de ikke ønske    |                           |
-|       |                        | følge gjennomgangen.    |                           |
-|       |                        |                         |                           |
+| /     | <                    | <                       | <                        |
+| Tid   | Hva skjer?           | Hvordan skal            | Hvorfor skal             |
+|       |                      | dette skje?             | det skje?                |
+|-------+----------------------+-------------------------+--------------------------|
+| 0-2   | Oppstart av timen.   | Få ro i klassen etter   | For å få oppmerksomheten |
+| min   |                      | friminutt. Læreren vil  | og roen til elevene.     |
+|       |                      | få overblikk over hvem  |                          |
+|       |                      | som er tilstedet.       |                          |
+|-------+----------------------+-------------------------+--------------------------|
+| 2-15  | Inroduksjon av       | Etter elevene har       | Dette gjøre for å        |
+| min   | kryssprodukt.        | fått roen, kan          | formidle stoffet til     |
+|       |                      | læreren gå igjennom     | elevene. Spesielt viktig |
+|       |                      | prinsippene til         | blir da den så kalte     |
+|       |                      | kryssproduktet.         | høyrehåndsregelen.       |
+|       |                      | Slik som hvordan        | Denne blir sentral i     |
+|       |                      | kryss produktet         | den geometriske          |
+|       |                      | gir en vektor ffra      | tolkningen av            |
+|       |                      | to vektorer,            | kryssproduktet.          |
+|       |                      | i motsetning til        |                          |
+|       |                      | skalarproduktet som     |                          |
+|       |                      | gir ett tall.           |                          |
+|       |                      | Deretter vil det bli    |                          |
+|       |                      | gjennomgått hvilke      |                          |
+|       |                      | egenskaper dette        |                          |
+|       |                      | produktet har, og den   |                          |
+|       |                      | geometriske tolkningen. |                          |
+|-------+----------------------+-------------------------+--------------------------|
+| 15-35 | Arbeid med oppgaver. | Eleven jobber med       | Oppgavene vil fokusere   |
+| min   |                      | oppgavene. Hvis noen    | på regneregler og        |
+|       |                      | ikke forstår oppgaven   | determinant metode. I    |
+|       |                      | eller trenger hjelp,    | tilegg til formler for   |
+|       |                      | rekker de opp hånda.    | areal av trekanter.      |
+|-------+----------------------+-------------------------+--------------------------|
+| 35-45 | Oppgaver løst på     | Læreren gjennomgår      | Dette gjøres for         |
+| min   | tavlen.              | oppgaver som elevene    | konsolidering og gir i   |
+|       |                      | har slitt med eller     | tillegg en mulighet for  |
+|       |                      | oppgavene som var me    | å oppklare noe elevene   |
+|       |                      | instruktive. Elevene    | ikke har forstått.       |
+|       |                      | vil fortsette å arbe    |                          |
+|       |                      | med tidligere oppgav    |                          |
+|       |                      | dersom de ikke ønske    |                          |
+|       |                      | følge gjennomgangen.    |                          |
+|       |                      |                         |                          |
 
