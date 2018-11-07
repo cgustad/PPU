@@ -14,20 +14,20 @@ digitale verktøy og oppgavene utdelt kan påvirke undervisningen og hjelpe elev
   \newpage
 #+END_LaTeX
 * Timeplaner
-| /          | <              | <                | <           |
-| Dato       | Klasse         | Varighet         | Tidspunkt   |
-| 1.Nov      | R2             | To timer         | 13:00-14:30 |
-|------------+----------------+------------------+-------------|
-| Fag:       | Kompetansemål: |                  |             |
-| Matematikk |                |                  |             |
-|            |                |                  |             |
-|            |                |                  |             |
-|------------+----------------+------------------+-------------|
-| Læringsmål                  | Faglige begreper               |
-|                             |                                |
-|                             |                                |
-|-----------------------------+-------------------------------  |
-|            |                |                  |             |
+| /          | <                | <        | <           |
+| Dato       | Klasse           | Varighet | Tidspunkt   |
+| 1.Nov      | R2               | To timer | 13:00-14:30 |
+|------------+------------------+----------+-------------|
+| Fag:       | Kompetansemål:   |          |             |
+| Matematikk |                  |          |             |
+|            |                  |          |             |
+|            |                  |          |             |
+|------------+------------------+----------+-------------|
+| Læringsmål | Faglige begreper |          |             |
+|            |                  |          |             |
+|            |                  |          |             |
+|------------+------------------+----------+-------------|
+|            |                  |          |             |
 ** Første time
 | /     | <                      | <                       | <                         |
 | Tid   | Hva skjer?             | Hvordan skal            | Hvorfor skal              |
@@ -122,6 +122,4 @@ digitale verktøy og oppgavene utdelt kan påvirke undervisningen og hjelpe elev
 |       |                      | dersom de ikke ønske    |                          |
 |       |                      | følge gjennomgangen.    |                          |
 |       |                      |                         |                          |
-* 
-* 
-* 
+ 
