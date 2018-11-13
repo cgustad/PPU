@@ -1,4 +1,4 @@
-% Created 2018-11-07 on. 23:37
+% Created 2018-11-07 on. 23:44
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -74,8 +74,31 @@ Noter stikkord til hvordan du som lærer kan:
 \item Ha humor og personlighet i undervisningen.
 \item Undersøke elevenes interesser og legge opp timer og aktiviteter rundt dette.
 \item Konstruer egene oppgaver for elevene, slik at de føler at de er mer personlige.
+\item Lag aktiviteter der elevene får valgmuligheter.
 \end{itemize}
-\item Ta hensyn til engstlige elever
+\item Ta hensyn til engstlige elever:
+\begin{itemize}
+\item Ikke ha aktivteter med klare vinnere og tapere.
+\item Finn steder elevene kan arbeide alene i ro.
+\item Unngå situasjoner der elevene må prestere foran andre elever.
+\end{itemize}
+\item Støtte elevenes selvbestemmelse og autonomi:
+\begin{itemize}
+\item Fremme elevenes valgfrihet innen aktiviteter.
+\item Gi elevene ansvar og konsekvenser for egene valg.
+\item Gi positiv tilbakemelding.
+\item Overlat elevenes avsvar og konsekvenser til seg selv.
+\end{itemize}
+\item Styrke elevenes mestringsforventninger.
+\begin{itemize}
+\item Vektlegg progresjon.
+\item Vis til elevens eller andres elevers sammenheng mellom innasts og resultat
+\end{itemize}
+\item Fremme et mestringsorientert læringsmiljø
+\begin{itemize}
+\item Oppmuntre elevene til å forbedre seg.
+\item Bemerke fremskritt og forbedring.
+\end{itemize}
 \end{enumerate}
 % Emacs 25.2.2 (Org mode 8.2.10)
 \end{document}
