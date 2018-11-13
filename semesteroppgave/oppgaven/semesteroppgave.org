@@ -1,0 +1,34 @@
+#+TITLE: Semesteroppgave
+#+AUTHOR: Christian O'Cadiz Gustad
+#+DATE: \today
+#+OPTIONS: toc:nil num : nil
+#+STARTUP: align
+
+
+
+* Beskrivelse av klassen og presentasjonen av undervisningsopplegget.
+
+Praksisskolen er en videregående skole i Oslo, som er fokusert på studiespesialserende men har også tilbud innen idrett og entreprenørskap. Klassen består av 14 elever som har valgt seg inn til faget R2 matematikk. Kjønnsfordelingen i klassen er jevnt, og man får inntrykk av at jentene ligger jevnt over på ett høyere faglig nivå enn guttene. Spesielt er det en gjeng på 2-3 gutter som ikke gjør arbeidet de skal i de tidligere timene vi har observert. Ellers virker klassemiljøet godt der det er liten annen problematferd. Det virker som om elevene har god relasjon til læreren og til hverandre.\\
+
+Den faste læreren deres er en svært god lærer som har gitt ut bøker innen matematikk for videregående. Terskelen virker lav for at elevene skulle  komme med inspill og spørsmål til undervisningen. 
+Strukturen på undervisningen hennes virker å gå som følger:
+- *(7-15 min)* Gå gjennom teori og eksempler på tavla.
+- *(20-28 min)* Elevene får arbeide med oppgaver alene.
+- *(10 min)* Læreren går igjennom vansklige og illustrerende oppgaver på tavla. 
+Vi bestemte oss derfor å holde oss til denne tidsplanen, men denne gangen med to timer etter hverandre.
+ 
+Målet for den første undervisningstimen var å gjøre elevene kjent med skalarproduktet i dimensjon tre. Deretter introdusere vektorproduktet i dimensjon tre, som vil være helt nytt i motsetning til skalarproduketet som elevene kjenner fra tidligere i dimensjon to.\\
+ 
+Før denne timen har vi observert flere timer som læreren har holdt, samt holdt en dobbeltime der vi gikk igjennom vektorer og konstruksjoner i dimensjon tre.\\
+Etter  timene under veiledning av denne læreren var det noen punkter hun anbefalte at jeg forbedret meg på nemlig:
+1. Planlegg hva som skal stå på tavla når du er ferdig
+2. Lag egene oppgaver til elevene. 
+
+
+
+
+
+
+bibliography:PPU.bib
+
+
