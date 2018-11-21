@@ -1,0 +1,28 @@
+#+TITLE:
+#+AUTHOR:
+#+DATE:
+#+OPTIONS: toc:nil num:nil
+#+STARTUP: align
+
+* Case
+Eva, Ida og Mette går i 10. klasse og er blitt enige om at de har lyst til å lage seg en felles blogg hvor de kan skrive om sin hverdag og om ting som interesserer dem. På skolen har de tidligere brukt gratistjenesten Blogger i forbindelse med et prosjekt i engelsk. Nå velger jentene å opprette en felles blogg med felles brukernavn og passord slik at de alle tre kan skrive når det passer dem. De tre skriver om ting de liker, og ellers mye om det som skjer i livene deres, både på skolen og i fritiden. Av og til skriver de om sine medelever og lærere, de legger også ut bilder av andre, som de har tatt i smug uten at den det gjelder vet om det. Jentene blir fort populære i sin vennekrets, og bloggen blir en snakkis i friminuttene. 
+Etter å ha kranglet med noen andre jenter på skolen, velger Mette i frustrasjon å skrive et innlegg der hun kommer med stygge og usanne påstander om disse jentene på bloggen. Mange på skolen har etter hvert oppdaget bloggen, og flere og flere skriver kommentarer til innleggene. Ida, som også er venn med de samme jentene, synes først at dette er gøy, men innser at vennene hennes kanskje vil bli lei seg hvis de ser innlegget. Noen av kommentarene er kritiske til flere av innleggene, og Ida tar opp dette med Mette og Eva. Hun tenker at de kanskje bør slette noen av innleggene, og kanskje heller fortsette slik de hadde gjort innledningsvis da de skrev om ting de likte, som kule klær og ferier de drømte om. Mette er fortsatt sint på de samme jentene og nekter å slette innleggene. Hun argumenterer med at mange liker bloggen, og at det ville være teit å slette innlegg; ingen proffe bloggere bryr seg om sånt. 
+Som jentenes kontaktlærer merker du at Ida er stresset, og at den vanlige venninnegjengen ikke henger sammen som de alltid har gjort tidligere. Du legger også merke til at Mette og Eva snakker mye sammen, men at Ida ikke blir inkludert. Etter samfunnsfagstimen ser du at Ida henger igjen i klasserommet, og at hun ønsker å snakke med deg. Du spør hvordan det går, og om det er noe hun lurer på. Ida nøler, men forteller at hun er blitt uvenner med Eva og Mette, og at hun ikke helt vet hvordan hun skal ordne opp i det. Du spør om noe har skjedd, men da blir Ida stille. I samme øyeblikk ringer skoleklokken, og Ida unnskylder seg og går. I storefri møter du en kollega som også er lærer for disse jentene. I forbifarten nevner du at det ser ut til at jentetrioen er blitt uvenner, og at du har på følelsen at det har skjedd noe. Kollegaen nikker, men sier at han ikke har hørt noe. 
+I løpet av den neste uka blir det gradvis tydelig at ikke alt er som det skal i klassen. Stemningen har endret seg, og du merker at læringsmiljøet ikke er som det var. Ida framstår som stresset, og det er tydelig at jentene fortsatt er uvenner over noe. Du bestemmer deg for å ta en ordentlig prat med henne og ber om en samtale etter skolen. Ida får panikk og tenker at hun nå kommer til å få skylden for alt, noe som er urettferdig. Hun sender en sms til Eva og Mette og anklager dem for at hun nå får trøbbel. Jentene avviser dette og sier at hun er like ansvarlig som dem. Senere samme dag legger de to ut et nytt oppslag på bloggen med et bilde av Ida under overskriften «Mobbebitch», hvor de fastslår at Ida er hjernen bak det hele, og at de har forsøkt å få henne til å slutte. Samtidig bytter de passord til bloggen. Neste dag kommer ikke Ida på skolen, og hun blir borte den påfølgende uken. 
+Du blir mer og mer bekymret og ringer Idas mor for å høre hvordan det går. Du forteller at du tror jentene har blitt uvenner, men at du ikke vet hvorfor. Dere blir enige om at hun skal ta en prat med Ida. Kort tid etter ringer moren deg tilbake og forteller om bloggen og hva som har skjedd. Hun er opprørt og sint, og mener at hele denne situasjonen er skolens ansvar siden jentene begynte med bloggingen der i første omgang. Hun forventer at du ordner opp i dette. 
+* Hvordan kan man få kartlagt situasjonen?
+For å få kartlagt situasjonen vil det være naturlig å spørre andre elever som har lest bloggen. Dette kan hjelpe med å få oversikt over tidslinja til situasjonen. Etter å ha fått oversikt ville det neste steg vært å konfrontert Ida og deretter Mette og Eva. 
+* Hva er det dere ønsker å oppnå?
+Vi ønsker å oppnå at negtive blogger ikke oppstår igjen. Derfor vil det være hensiktsmessig å ta en alovrlig prat med Mette og Eva. Nødvendigvis vil Ida også måtte være med på dette, uavhengig om hun mener at ikke hadde en del i de negative inleggene. 
+* Hvordan skal dere håndtere ulike situasjoner?
+Etter at dette har blåst over vil det være lurt å ha en klassesamtale der man diskuterer hva som kan skje dersom situasjoner som dette får fortsette uavbrutt, og hvordan dette kan bidra til ett dårlig klassemiljø.
+* Analyse
+  #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX 
+| <10>       | <10>       | <10>       | <10>       |
+| Behov      | Tiltak     | Handling   | Hvem er ansvalig for gjennomføringen? |
+|------------+------------+------------+------------|
+| Jentene skriver usanne stygge påstander om andre jenter på skolen. | Jentene må konfronteres med dette, og få det forklart at slike inlegg ikke er greit. Konsekvensene dette kan ha på de blogginleggene angår må understrekes. | Jentene må slette de negative inleggene, samnt muligens skrive en unnskyldning til de det gjalt når det kom til negative inlegg. | Læreren vil først og fremst være ansvarlig for å ta dette opp med jentene, men jentene vil selv være ansvarlige for å slette inlegg samt skrive en unnskyldning. |
+|            |            |            |            |
+|            |            |            |            |
+
+

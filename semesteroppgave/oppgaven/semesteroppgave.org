@@ -8,7 +8,7 @@
 
 * Beskrivelse av klassen og presentasjonen av undervisningsopplegget.
 
-Praksisskolen er en videregående skole i Oslo, som er fokusert på studiespesialserende men har også tilbud innen idrett og entreprenørskap. Klassen består av 14 elever som har valgt seg inn til faget R2 matematikk. Kjønnsfordelingen i klassen er jevnt, og man får inntrykk av at jentene ligger jevnt over på ett høyere faglig nivå enn guttene. Spesielt er det en gjeng på 2-3 gutter som ikke gjør arbeidet de skal i de tidligere timene vi har observert. Ellers virker klassemiljøet godt der det er liten annen problematferd. Det virker som om elevene har god relasjon til læreren og til hverandre.\\
+Praksisskolen er en videregående skole i Oslo, som er fokusert på studiespesialserende men har også tilbud innen idrett og entreprenørskap. Klassen består av 14 elever som har valgt seg inn til faget R2 matematikk. Siden R2 er ett valgfag er elevene motiverte til å lære faget, noe vi har fått intrykk av under tidligere observasjonstimer hos klassen. Kjønnsfordelingen i klassen er jevnt, og man får inntrykk av at jentene ligger jevnt over på ett høyere faglig nivå enn guttene. Spesielt er det en gjeng på 2-3 gutter som ikke gjør arbeidet de skal i de tidligere timene vi har observert. Ellers virker klassemiljøet godt der det er liten annen problematferd. Det virker som om elevene har god relasjon til læreren og til hverandre.\\
 
 Den faste læreren deres er en svært god lærer som har gitt ut bøker innen matematikk for videregående. Terskelen virker lav for at elevene skulle  komme med inspill og spørsmål til undervisningen. 
 Strukturen på undervisningen hennes virker å gå som følger:
@@ -26,7 +26,11 @@ Etter  timene under veiledning av denne læreren var det noen punkter hun anbefa
 
 
 
+* Analyse av undervisningsopplegget i teori og utførelse
 
+
+
+* Refleksjon
 
 
 bibliography:PPU.bib
