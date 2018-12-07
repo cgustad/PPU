@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: semesteroppgave.aux
 The style file: abbrvnat.bst
 Database file #1: semesteroppgave.bib
-You've used 1 entry,
+You've used 7 entries,
             2773 wiz_defined-function locations,
-            600 strings with 4751 characters,
-and the built_in function-call counts, 569 in all, are:
-= -- 52
-> -- 14
-< -- 2
-+ -- 5
-- -- 4
-* -- 32
-:= -- 85
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 4
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 33
-empty$ -- 55
-format.name$ -- 5
-if$ -- 128
-int.to.chr$ -- 1
+            636 strings with 5516 characters,
+and the built_in function-call counts, 3234 in all, are:
+= -- 302
+> -- 86
+< -- 12
++ -- 33
+- -- 25
+* -- 180
+:= -- 470
+add.period$ -- 25
+call.type$ -- 7
+change.case$ -- 27
+chr.to.int$ -- 6
+cite$ -- 14
+duplicate$ -- 200
+empty$ -- 323
+format.name$ -- 32
+if$ -- 741
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 13
-num.names$ -- 6
-pop$ -- 12
+missing$ -- 8
+newline$ -- 43
+num.names$ -- 36
+pop$ -- 78
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 21
 quote$ -- 0
-skip$ -- 25
+skip$ -- 144
 stack$ -- 0
-substring$ -- 30
-swap$ -- 10
-text.length$ -- 1
+substring$ -- 151
+swap$ -- 54
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
+type$ -- 72
 warning$ -- 0
-while$ -- 6
+while$ -- 35
 width$ -- 0
-write$ -- 21
+write$ -- 100
