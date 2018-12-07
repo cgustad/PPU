@@ -1,4 +1,4 @@
-% Created 2018-11-13 ti. 22:21
+% Created 2018-11-21 on. 17:00
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -16,6 +16,7 @@
 \usepackage{amssymb}
 \usepackage{hyperref}
 \tolerance=1000
+\usepackage[margin=1.0in]{geometry} \setlength\parindent{0pt} \usepackage[style=authoryear]{biblatex}
 \author{Christian O'Cadiz Gustad}
 \date{\today}
 \title{Semesteroppgave}
@@ -27,13 +28,17 @@
 
 \maketitle
 
-
-
 \section{Beskrivelse av klassen og presentasjonen av undervisningsopplegget.}
 \label{sec-1}
 
-Praksisskolen er en videregående skole i Oslo, som er fokusert på studiespesialserende men har også tilbud innen idrett og entreprenørskap. Klassen består av 14 elever som har valgt seg inn til faget R2 matematikk. Kjønnsfordelingen i klassen er jevnt, og man får inntrykk av at jentene ligger jevnt over på ett høyere faglig nivå enn guttene. Spesielt er det en gjeng på 2-3 gutter som ikke gjør arbeidet de skal i de tidligere timene vi har observert. Ellers virker klassemiljøet godt der det er liten annen problematferd. Det virker som om elevene har god relasjon til læreren og til hverandre.\\
+Praksisskolen er en videregående skole i Oslo \cite{Saljo} , som er fokusert på studiespesialserende men har også tilbud innen idrett og entreprenørskap. Klassen består av 14 elever som har valgt seg inn til faget R2 matematikk. Siden R2 er ett programfag vil en høyere andel av elevene være motiverte til å lære faget. Dette har jeg også fått intrykk av under tidligere observasjonstimer hos klassen. 
 
+Kjønnsfordelingen i klassen er jevnt, og man får inntrykk av at jentene ligger jevnt over på ett høyere faglig nivå enn guttene. Spesielt er det en gjeng på 2-3 gutter som ikke gjør arbeidet de skal i de tidligere timene vi har observert. Ellers virker klassemiljøet godt der det er liten annen problematferd. Det virker som om elevene har god relasjon til læreren og til hverandre.\\
+
+
+
+\section{Presentasjon av undervisning opplegget}
+\label{sec-2}
 Den faste læreren deres er en svært god lærer som har gitt ut bøker innen matematikk for videregående. Terskelen virker lav for at elevene skulle  komme med inspill og spørsmål til undervisningen. 
 Strukturen på undervisningen hennes virker å gå som følger:
 \begin{itemize}
@@ -41,9 +46,8 @@ Strukturen på undervisningen hennes virker å gå som følger:
 \item \textbf{(20-28 min)} Elevene får arbeide med oppgaver alene.
 \item \textbf{(10 min)} Læreren går igjennom vansklige og illustrerende oppgaver på tavla.
 \end{itemize}
-Vi bestemte oss derfor å holde oss til denne tidsplanen, men denne gangen med to timer etter hverandre.
-
-Målet for den første undervisningstimen var å gjøre elevene kjent med skalarproduktet i dimensjon tre. Deretter introdusere vektorproduktet i dimensjon tre, som vil være helt nytt i motsetning til skalarproduketet som elevene kjenner tidligere i planet.\\
+Vi bestemte oss derfor å holde oss til denne tidsplanen, men denne gangen med i en dobbeltime. 
+Målet for den første undervisningstimen var å gjøre elevene kjent med skalarproduktet i dimensjon tre. Deretter introdusere vektorproduktet i dimensjon tre, som vil være helt nytt i motsetning til skalarproduketet som elevene kjenner fra tidligere i dimensjon to.\\
 
 Før denne timen har vi observert flere timer som læreren har holdt, samt holdt en dobbeltime der vi gikk igjennom vektorer og konstruksjoner i dimensjon tre.\\
 Etter  timene under veiledning av denne læreren var det noen punkter hun anbefalte at jeg forbedret meg på nemlig:
@@ -54,9 +58,12 @@ Etter  timene under veiledning av denne læreren var det noen punkter hun anbefa
 
 
 
+\section{Analyse av undervisningsopplegget i teori og utførelse}
+\label{sec-3}
 
 
 
-\bibliography{PPU}
+\section{Refleksjon}
+\label{sec-4}
 % Emacs 25.2.2 (Org mode 8.2.10)
 \end{document}

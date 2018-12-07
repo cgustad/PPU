@@ -1,0 +1,290 @@
+
+% Pedagogigkk
+
+%% Læringsteorier
+@article{MercerH,
+author = {Mercer, N. & Howe, C.},
+title = {Explaining the dialogic processes of teaching and learning: The value of sociocultural theory. Learning, Culture and Social Interaction},
+volume = {1},
+year = 2012,
+pages = {12-21}
+},
+
+@article{Mercer,
+author = {Mercer, N., & Littleton, K.},
+title = {Dialogue and the Development of children's thinking: A sociocultural approach},
+journal = {London: Routledge.},
+year = 2007,
+pages = {34-82}
+},
+
+
+@book{Saljo,
+author = {Säljö, R.},
+title = {Læring: En introduksjon til perspektiver og metaforer.},
+publisher = {Oslo: Cappelen Damm Akademisk},
+year = {2016}
+},
+
+@article{Michaels,
+author = {Michaels, S. & O'Connor, C. },
+title = {Talk science primer},
+journal = {TERC.},
+year = 2012
+},
+
+%% Motivasjon
+
+@incollection{Andreassen,
+editor = {I J. H. Stray & L. Wittek (red.)},
+title = {Pedagogikk - en grunnbok},
+booktitle = {Læringsstrategier},
+author = {Andreassen, R.},
+year = 2014,
+publisher = {Oslo: Cappelen Damm Akademisk},
+pages = {213-231}
+},
+
+@incollection{Corno,
+editor = {I D. Schunk & B. Zimmerman},
+title = {Motivation and self-regulated learning: Theory, research, and applications},
+author = {Corno, L},
+booktitle = {Work habits and self-regulated learning: Helping students to find a “will” from a “way”},
+year = 2008,
+publisher = {New York: Lawrence Earlbaum/Taylor & Francis group},
+pages = {197-222}
+},
+
+
+@book{Woolfolk,
+author = {Woolfolk, A.},
+title = {Pedagogisk psykologi},
+year = 2004,
+publisher = { Bergen: Fagbokforlaget},
+pages = {272-317}
+},
+
+
+%% Læring og undervisning i teknologitette klasserom
+@incollection{ Erstad,
+editor = {I R. J. Krumsvik},
+title = {Digital læring i skole og lærerutdanning},
+author = {Erstad, O.},
+booktitle = {Navigering i læringens grenseland: Om grenseflater mellom formell og uformell læring},
+year = 2016,
+publisher = {Oslo, Universitetsforlaget},
+pages = {120-135}
+},
+
+@incollection{FurbergF,
+editor = {I T. E. Hauge & A. Lund},
+title = {Små skritt eller store sprang? Om digitale tilstander i skolen},
+author = {Furberg, A. & Rasmussen, I.},
+booktitle = {Faktaorientering og forståelsesorientering i elevers bruk av nettbaserte læringsomgivelser},
+year = 2011,
+publisher = {Oslo: Cappelen Damm Akademisk},
+pages = {23-57}
+},
+
+
+
+@incollection{ FurbergP,
+editor = {I R. J. Krumsvik},
+title = {Digital læring i skole og lærerutdanning},
+author = { Furberg, A. & Lund, A.},
+booktitle = {En profesjonsfaglig digitalt kompetent lærer? Muligheter og utfordringer i teknologirike læringsomgivelser.},
+year = 2016,
+publisher = {Oslo: Universitetsforlaget},
+pages = {9-28}
+},
+
+@incollection{Ottestad,
+editor = {I R. J. Krumsvik },
+title = {Digital læring i skole og lærerutdanning},
+author = {Gudmundsdottir, G. B. & Ottestad, G.},
+booktitle = {Veien mot profesjonsfaglig digital kompetanse for lærerstudenten},
+year = 2016,
+publisher = {Oslo: Universitetsforlaget},
+pages = {70-82}
+},
+
+
+@article{MercerD,
+author = {Mercer, N., Hennessy, S., & Warwick, P.},
+title = {Using interactive whiteboards to orchestrate classroom dialogue},
+journal = {Technology, Pedagogy and Education.},
+year =   2010,
+pages = {195-209}
+},
+
+%% Klasseledelse og undervisningsplanlegging
+@book{Drugli,
+author ={Drugli, M. B. },
+title = {Relasjonen lærer og elev. Avgjørende for elevens læring og trivsel},
+publisher = {Oslo: Cappelen Damm Akademisk},
+year =  2012,
+pages = { 45-65}
+},
+
+@book{Fjortoft,
+author = {Fjørtoft, H.},
+title = {Effektiv planlegging og vurdering: Læring med mål og kriterier i skolen (2. utg.)},
+publisher = {Oslo: Fagbokforlaget},
+year = 	 {2016},
+pages = {63-77}
+},
+
+
+
+@book{Helstad,
+author = {Helstad, K. & Øiestad, P. A. },
+title = {Klasseledelse - verktøy for ledelse og læring},
+publisher = {Bedre Skole},
+year = 	 {2014},
+pages = {34-49}
+},
+
+
+ @book{Imsen,
+  author = {Imsen, G.},
+  title =  {Klasseledelse og sosialt læringsmiljø. Lærerens verden: Innføring i generell didaktikk},
+  publisher = {Oslo: Universitetsforlaget},
+  year = 2016,
+  pages = {439-470}
+},
+
+
+@incollection{KletteH,
+editor = {I R. J. Krumsvik & R. Säljö},
+title = {Praktisk pedagogisk utdanning: En antologi},
+author = {Klette, K.},
+booktitle = {Hva vet vi om god undervisning? Rapport fra klasseromsforskningen},
+year = 2013,
+publisher = {Bergen: Fagbokforlaget},
+pages = {173-200}
+},
+
+@incollection{Munthe,
+editor = {I R. J. Krumsvik & R. Säljö},
+title = {Praktisk pedagogisk utdanning: En antologi},
+author = {Munthe, E.},
+booktitle = {Planlegging av undervisning},
+year = 2013,
+publisher = {Bergen: Fagbokforlaget},
+pages = {203-227}
+},
+
+
+ @book{Ogden,
+  author = {Ogden T..},
+  title =  {Klasseledelse: Praksis, teori og forskning.},
+  publisher = {Oslo: Gyldendal Akademisk},
+  year = 2012,
+  pages = {26-67}
+},
+
+
+
+
+%% Ungdomskunnskap
+@incollection{Bakken,
+editor = {I B. Karseth, J. Møller & P. Aasen},
+title = {Reformtakter om fornyelse og stabilitet i grunnopplæringen},
+author = {Bakken, A.&  Elstad, J.I. },
+booktitle = {Kunnskapsløftet og sosioøkonomiske forskjeller i skoleresultater},
+year = 2013,
+publisher = {Oslo: Universitetsforlaget},
+pages = {211-227}
+},
+
+@incollection{Danielsen,
+editor = {I R. J. Krumsvik & R. Säljö},
+title = {Praktisk pedagogisk utdanning: En antologi},
+author = {Danielsen, A.G & Tjomsland H.E.},
+booktitle = {Mestringsforventning, trivsel og frafall},
+year = 2013,
+publisher = {Bergen: Fagbokforlaget},
+pages = {441-466}
+},
+
+@article{Frønes,
+author = {Frønes, I.},
+title = {Å forstå sosialisering: Sosialisering og kunnskapssamfunnet},
+journal = {Oslo: Gyldendal akademisk},
+year =   2013,
+},
+
+@article{Furlon,
+author = {Furlong, A.},
+title = {Youth studies: An introduction},
+journal = {London: Routledge},
+year =   2013,
+},
+
+
+@article{Hegna,
+author = {Hegna, K., Ødegård, G., & Strandbu, Å.},
+title = {En «sykt seriøs» ungdomsgenerasjon?},
+journal = {Tidsskrift for Norsk Psykologforening},
+volume = {50},
+year =   2013,
+pages = {374-377}
+},
+
+
+@article{Oya,
+author = {Øya, T. & Vestel, V.},
+title = {Generasjonskløfta som forsvant. Et ungdomsbilde i endring.},
+journal = { Tidsskrift for Ungdomsforskning },
+volume = {14(1)},
+year =   2014,
+pages = {99-133}
+},
+
+
+
+
+%% Skole, samfunn og profesjonalitet
+@incollection{Ebbesen,
+editor = {I Mikkelsen, R. & H. Fladmoe},
+title = {Lektor, Adjunkt, lærer: Artikler for studiet i praktisk-pedagogisk utdanning},
+author = {Ebbesen, A. G.},
+booktitle = {Mirakelkur eller danningsprosjekt? Pedagogikk i  praktisk-pedagogisk utdanning},
+year = 2009,
+publisher = {Oslo: Universitetsforlaget},
+pages = {25-51}
+},
+
+
+
+
+ @article{Hovdenak,
+  author = 	 {Hovdenak, S. S.},
+  title = 	 {Utdanningssosiologi: Fra teori til praksis i skolen},
+  journal = 	 {Trondheim: Tapir akademisk forlag.},
+  year = 	 {2011},
+  pages = {9-61}
+},
+
+
+
+@article{Mausethagen,
+  author = 	 {Mausethagen, S.},
+  title = 	 {Læreren i Endring? Om nye forventninger til lærerprofesjonen og lærerarbeidet},
+  journal = 	 {Oslo: Universitetsforlaget},
+  year = 	 {2015},
+  pages = {15-27}
+},
+
+
+
+%% Forskningsmetode
+
+@article{Postholm,
+  author = 	 {Postholm, M. B., & Jacobsen, D. I. },
+  title = 	 {Læreren med forskerblikk. Innføring i vitenskapelig metode for lærerstudenter},
+  journal = 	 {Kristiansand: Høgskoleforlaget},
+  year = 	 {2011},
+  pages = {39-59}
+}
+
