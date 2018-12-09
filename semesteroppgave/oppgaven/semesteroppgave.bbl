@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -16,17 +16,47 @@ O.~Björqvist.
 \newblock In I.~B.~G. (red), editor, \emph{Matematikdidaktik – ett nordisk
   perspektiv}, pages 115--132. Studentlitteratur, 2001.
 
+\bibitem[Drugli(2012)]{Drugli}
+M.~B. Drugli.
+\newblock \emph{Relasjonen lærer og elev. Avgjørende for elevens læring og
+  trivsel}.
+\newblock Oslo: Cappelen Damm Akademisk, 2012.
+
+\bibitem[Har(2009)]{Har}
+Y.~B. Har.
+\newblock Teaching of algebra.
+\newblock In I.~L. Y.~. L.N., editor, \emph{Teaching secondary school
+  mathematics. A resourse book}, pages 25--50. Singaporte: McGraw Hill., 2009.
+
+\bibitem[Heid(1996)]{Heid2}
+M.~K. Heid.
+\newblock A technology-intensive functional approach to the emergence of
+  algebraic thinking.
+\newblock In C.~K. Nadine~Bednarz and L.~Lee, editors, \emph{Approaches to
+  algebra}, pages 225--236. Kluwer Academic Publishers, 1996.
+
 \bibitem[Heid(2013)]{Heid}
-M.~Z. R.~M. Heid, M.K.~Thomas.
+M.~Z. R.~M. Heid, Thomas.
 \newblock How might computer algebra systems change the role of algebra in the
   school curriculum?
 \newblock \emph{Third International Handbook of Mathematics Education}, 2013.
+
+\bibitem[Helstad(2014)]{Helstad}
+P.~A. Helstad, K.~Øiestad.
+\newblock \emph{Klasseledelse - verktøy for ledelse og læring}.
+\newblock Bedre Skole, 2014.
+
+\bibitem[Janvier(1996)]{janvier}
+C.~Janvier.
+\newblock Modeling and the initiation into algebra.
+\newblock In C.~K. Nadine~Bednarz and L.~Lee, editors, \emph{Approaches to
+  algebra}, pages 225--236. Kluwer Academic Publishers, 1996.
 
 \bibitem[Kilpatrik(2001{\natexlab{a}})]{addup}
 Kilpatrik.
 \newblock The strands of mathematical proficiency.
 \newblock In B.~F. Jeremy~Kilpatrick, Jane~Swafford, editor, \emph{Adding it
-  up}, pages 115--55. National Academy Press, 2001{\natexlab{a}}.
+  up}, pages 115--155. National Academy Press, 2001{\natexlab{a}}.
 
 \bibitem[Kilpatrik(2001{\natexlab{b}})]{addup2}
 Kilpatrik.
@@ -34,12 +64,47 @@ Kilpatrik.
 \newblock In B.~F. Jeremy~Kilpatrick, Jane~Swafford, editor, \emph{Adding it
   up}, pages 255--312. National Academy Press, 2001{\natexlab{b}}.
 
+\bibitem[Kilpatrik(2001{\natexlab{c}})]{addup3}
+Kilpatrik.
+\newblock Number:what is there to know?
+\newblock In B.~F. Jeremy~Kilpatrick, Jane~Swafford, editor, \emph{Adding it
+  up}, pages 71--114. National Academy Press, 2001{\natexlab{c}}.
+
 \bibitem[Klette(2013)]{KletteH}
 K.~Klette.
 \newblock Praktisk pedagogisk utdanning: En antologi.
 \newblock In I.~R. J. K. .~R. Säljö, editor, \emph{Hva vet vi om god
   undervisning? Rapport fra klasseromsforskningen}, pages 173--200. Bergen:
   Fagbokforlaget, 2013.
+
+\bibitem[Lew(2016)]{Lew}
+M.-R. Lew, Fukawa-Connelly.
+\newblock Lectures in advanced mathematics. why students might not understand
+  what the mathematics professors are conveying to say.
+\newblock \emph{International Journal for Research in Mathematics Education},
+  2016.
+
+\bibitem[Mercer(2007)]{Mercer}
+K.~Mercer, N.~Littleton.
+\newblock Dialogue and the development of children's thinking: A sociocultural
+  approach.
+\newblock \emph{London: Routledge.}, pages 34--82, 2007.
+
+\bibitem[Nemirovsky(1996)]{nemirovsky}
+R.~Nemirovsky.
+\newblock A functional approach to algebra: Two issues that emerge.
+\newblock In C.~K. Nadine~Bednarz and L.~Lee, editors, \emph{Approaches to
+  algebra}, pages 225--236. Kluwer Academic Publishers, 1996.
+
+\bibitem[Ogden(2012)]{Ogden}
+T.~Ogden.
+\newblock \emph{Klasseledelse: Praksis, teori og forskning.}
+\newblock Oslo: Gyldendal Akademisk, 2012.
+
+\bibitem[Olafsen(2015)]{did}
+M.~Olafsen, A.J. og~Maugesten.
+\newblock \emph{Matematikkdidaktikk. 2. utgave.}
+\newblock Oslo: Universitetsforlaget, 2015.
 
 \bibitem[Säljö(2016)]{Saljo}
 R.~Säljö.

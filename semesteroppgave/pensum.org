@@ -6,8 +6,30 @@ International Perspectives on learning and Teaching Mathematics
 Gøteborg University
 
 * Adding it up (2001)
+Jeremy Kilpatrick, Jane Swafford, Bradford Findell
 National academy press
+
+** Number:What is there to know?
+side 71-114
+
+** The strands of mathematical proficiency
+side 115-155
+
+** Developing mathematical proficiency beyond numbers
+side 255-312
 
 * Approaches to algebra (1996)
 Kluwer academic publishers
-Kieran
+Nadine Bednarz, Carolyn Kieran and Lesley Lee
+
+** Modeling and the initiation into algebra 
+Claude Janvier
+side 225-236
+
+** A technology-intensive functional approach to the emergence of algebraic thinking
+M. Kathleen Heid
+side 239-258
+
+** A functional approach to algebra: Two issues that emerge
+Ricardo Nemirovsky
+side 295-371
